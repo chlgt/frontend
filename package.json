@@ -1,0 +1,19 @@
+{
+  "name": "chl",
+  "version": "1.0.0",
+  "description": "frontend chl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlgt/frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlgt/frontend/issues"
+  },
+  "homepage": "https://github.com/chlgt/frontend#readme"
+}
