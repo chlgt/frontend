@@ -1,0 +1,35 @@
+{
+    "envios": [
+        {
+            "id": 1,
+            "DOrigen":"Mixco",
+            "DDestino":"Villa Nueva"
+        },
+        {
+            "id": 2,
+            "DOrigen":"Capital",
+            "DDestino":"Mixco"
+        },
+        {
+            "id": 3,
+            "DOrigen":"San Jose Pinula",
+            "DDestino":"Villa Nueva"
+        },
+        {
+            "id": 4,
+            "DOrigen":"Zona 18",
+            "DDestino":"Villa Nueva"
+        },
+        {
+            "id": 5,
+            "DOrigen":"Mixco",
+            "DDestino":"Santa Catarina Pinula"
+        },
+        {
+            "id": 6,
+            "DOrigen":"Mixco",
+            "DDestino":"Santa Catarina Pinula 2"
+        }
+    ]
+
+}
